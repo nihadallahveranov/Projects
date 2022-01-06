@@ -1,0 +1,17 @@
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\MyContacts.exe.config
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\MyContacts.exe
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\MyContacts.pdb
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.AssemblyReference.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.Form1.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.Properties.Resources.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.GenerateResource.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CoreCompileInputs.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.exe
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.pdb
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.Form2.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.CopyComplete
+C:\Users\nihadallahveranov\Visual Studio Projects\MyContacts\MyContacts\obj\Debug\MyContacts.csproj.ResolveComReference.cache
