@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/15 18:58:52.000.156,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/10/15 18:58:52.000.343,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/10/15 18:59:20.000.213,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\C++ Builder.projects\AudioPlayer\AudioPlayer_Source.h</Transaction>
+    <Transaction>2021/10/15 18:59:20.000.213,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\C++ Builder.projects\AudioPlayer\AudioPlayer_Source.dfm</Transaction>
+    <Transaction>2021/10/15 18:59:20.000.213,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\C++ Builder.projects\AudioPlayer\AudioPlayer_Source.cpp</Transaction>
+    <Transaction>2021/10/15 18:59:35.000.120,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\C++ Builder.projects\AudioPlayer\AudioPlayer1PCH1.h</Transaction>
+    <Transaction>2021/10/15 18:59:49.000.813,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\C++ Builder.projects\AudioPlayer\AudioPlayer.cbproj</Transaction>
+    <Transaction>2021/11/17 01:08:07.000.152,=C:\C++ Builder.projects\AudioPlayer\Unit2.cpp</Transaction>
+    <Transaction>2021/11/17 01:08:20.000.511,C:\C++ Builder.projects\AudioPlayer\form2_source.dfm=C:\C++ Builder.projects\AudioPlayer\Unit2.dfm</Transaction>
+    <Transaction>2021/11/17 01:08:20.000.511,C:\C++ Builder.projects\AudioPlayer\form2_source.cpp=C:\C++ Builder.projects\AudioPlayer\Unit2.cpp</Transaction>
+    <Transaction>2021/11/17 01:08:20.000.511,C:\C++ Builder.projects\AudioPlayer\form2_source.h=C:\C++ Builder.projects\AudioPlayer\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
