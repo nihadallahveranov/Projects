@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/22 19:36:57.000.458,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/12/22 19:36:57.000.791,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/12/22 19:43:21.000.768,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\C++ Builder.projects\TextEdit\TextEditor_source.h</Transaction>
+    <Transaction>2021/12/22 19:43:21.000.736,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\C++ Builder.projects\TextEdit\TextEditor_source.cpp</Transaction>
+    <Transaction>2021/12/22 19:43:21.000.768,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\C++ Builder.projects\TextEdit\TextEditor_source.dfm</Transaction>
+    <Transaction>2021/12/22 19:43:32.000.705,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\C++ Builder.projects\TextEdit\TextEditor1PCH1.h</Transaction>
+    <Transaction>2021/12/22 19:43:40.000.573,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\C++ Builder.projects\TextEdit\TextEditor.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
