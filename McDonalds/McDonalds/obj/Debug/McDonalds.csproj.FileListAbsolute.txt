@@ -1,0 +1,25 @@
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\bin\Debug\McDonalds.exe.config
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\bin\Debug\McDonalds.exe
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\bin\Debug\McDonalds.pdb
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.AssemblyReference.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.SuggestedBindingRedirects.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form1.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Properties.Resources.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.GenerateResource.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.CoreCompileInputs.cache
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.exe
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.pdb
+D:\Form_Projects\McDonalds\McDonalds\bin\Debug\McDonalds.exe.config
+D:\Form_Projects\McDonalds\McDonalds\bin\Debug\McDonalds.exe
+D:\Form_Projects\McDonalds\McDonalds\bin\Debug\McDonalds.pdb
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.AssemblyReference.cache
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form1.resources
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Properties.Resources.resources
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.GenerateResource.cache
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.csproj.CoreCompileInputs.cache
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.exe
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.pdb
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form2.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form2.resources
+D:\Form_Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form3.resources
+C:\Users\nihadallahveranov\Visual Studio Projects\McDonalds\McDonalds\obj\Debug\McDonalds.Form3.resources
